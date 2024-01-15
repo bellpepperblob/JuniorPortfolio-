@@ -1,3 +1,5 @@
+
+
 .banner  { 
  background-color: #2E8B57; 
  color: white;
@@ -41,3 +43,18 @@
     letter-spacing: 3px;
     text-align: center;
 }
+#kleines-logo { 
+ position: relative;
+ align-items: center;
+ width: 100px;
+ height: 100px;
+
+
+}
+
+#banner-button { 
+text-align: end;
+border: 5px solid white;
+margin: 0 20px 0 20px;
+}
+
