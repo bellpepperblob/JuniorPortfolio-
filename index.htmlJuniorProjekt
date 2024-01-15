@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks-Stan</title>
+    <link rel="stylesheet" href="./resources/css/index.css">
+</head>
+
+<body>
+    <!--Navi Bereich-->
+    <div class="header">
+
+        <ul>
+            <li><a href="https://www.starbucks.de/our-coffees/dark-roasts" target="_blank">Level 1 Kaffee: leichte Beute</a>
+            <li><a href="https://www.starbucks.de/our-coffees/medium-roasts " target="_blank">Level 2 Kaffee: der Kaffeekenner</a>
+            <li><a href="https://www.starbucks.de/our-coffees/blonde-roasts" target="_blank">Level 99: Kaffee im Blut</a>
+        </ul>
+    </div>
+
+    <!-- webseite banner --> 
+    <div class="banner" >
+        <h1><strong>Willkommen Starbucks-Stan!</strong></h1>
+        <img id="kleines-logo" src="./resources/css/images/starbucks logo.png" alt="Bild vom Starbucks Papp Kaffeebecher" >
+  <h4 class="slogan">sei ein Mitglied der Starbucks Kult und kauft den Merch</h4>
+    <a id="banner-button" href="https://www.starbucks.de/" target="_blank"><button>Merch holen oder zombie werden</button></a> 
+   
+    </div>
+<!-- Starbucks-Stan Inhalt -->
+<div class="h1">
+  <h1 id="h1 a">Starbucks-Stan</h1>
+<p>ist eine Webseite für Starbucks obsessiver Menschen weil man ohne Gourmet Kaffeebecher nicht aufwacht.</p>
+
+</div>
+    <div class="h2">
+        <h2>Speisekarte</h2>
+        <p> wähle deine passende Ausrüstung.</p>
+
+      <a href="https://www.starbucks.de/menu/getranke" target="_blank">Speisekarte</a>
+    
+
+    </div>
+    
+</body>
+<footer>
+    <div class="h3">
+        <h3>Merch Kaufen</h3>
+    </div>
+   
+</footer>
+</html>
