@@ -41,8 +41,3 @@
     letter-spacing: 3px;
     text-align: center;
 }
-#kleines-logo { 
- position: relative;
- align-items: center;
- width: 100px;
- height: 100px;
